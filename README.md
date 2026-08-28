@@ -14,7 +14,7 @@ en passant par l'infra qui héberge tout ça.
 ### 🚀 Ce que je fais
 
 **💼 Pro**
-Fondateur d'**[EVERWORLD](https://everworld.fr/fr)** — hébergement de serveurs de jeu, VPS à venir.
+- Fondateur d'**[EVERWORLD](https://everworld.fr/fr)** — hébergement de serveurs de jeu, VPS à venir.
 
 **🎮 Perso**
 - Serveur GTA RP **[Evergreen Roleplay (EGRP)](https://evergreen-rp.fr/)** sur FiveM
