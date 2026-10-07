@@ -53,7 +53,7 @@ en passant par l'infra qui héberge tout ça.
 
 </div>
 
-> 💡 Ces images sont générées automatiquement à chaque chargement de la page — rien à maintenir de ton côté.
+> 💡 Ces images sont générées automatiquement à chaque chargement de la page
 
 ---
 
